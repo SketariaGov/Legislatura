@@ -1,4 +1,6 @@
 # Legislatura
 Legislatura del Gobierno de Sketaria
-## Activo
-* [Constitución](activo/constitución.md)
+
+
+## Legislatura Activa
+* [Constitución](https://sketariagov.github.io/Legislatura/activa/constitución)
